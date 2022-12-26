@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+/* .content{
+    display: flex;
+    justify-content: center;
+
+} */
+.team1 {
+    width: 50%;
+    float: left;
+}
+.team2 {
+    float: right;    
+    width: 50%;
+}
